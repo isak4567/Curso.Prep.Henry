@@ -1,0 +1,24 @@
+.divClass {}
+
+img {width: 400px;
+     display: block;}
+
+body {background-image: url(https://i.ibb.co/yqVttvY/simbolo-del-canal-cortado.png);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      }
+
+#thirdDiv { height: 900px;
+            width: 600px; 
+            padding: 30px;
+            background: red; 
+            border: 15px solid blue;
+            }
+
+#spanid { color:rgba(28, 151, 12, 0.719);
+          font-size: 18px;
+          margin: 50px;
+          }
+
+h1 {color: rgb(23, 35, 143);}
